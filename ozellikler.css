@@ -1,0 +1,44 @@
+div{
+    text-align: center;
+}
+
+h1{
+    color: #FF6000;
+    
+    font-size: 40px;
+}
+
+menu{
+    
+    font-size: 17px;
+
+}
+
+h2{
+    color: purple;
+    font-size: 35px;
+}
+h3{
+    color: red;
+    font-size: 30px;
+}
+p{
+    font-size: 20px;
+}
+ul{
+    list-style-position: inside;
+    font-size: 20px;
+    color:olivedrab;
+}
+.yanayapistir{
+    text-align: left;
+}
+h4{
+    color:darkslateblue;
+    font-size: 25px;;
+}
+.article{
+    
+   width: 600px;
+   height: 600px;
+}
